@@ -21,7 +21,8 @@ An entertaining web project featuring a playful question with a twist - you can'
 
 ## 📸 Preview
 
-<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/ec43913e-16bc-4201-a66e-dd364de4e51e" />
+<img width="1911" height="832" alt="image" src="https://github.com/user-attachments/assets/98f9a125-dad3-4118-ab71-75210101073d" />
+
 
 *Try to catch the "NO" button... if you can!*
 
